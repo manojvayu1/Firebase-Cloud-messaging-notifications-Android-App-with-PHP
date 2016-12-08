@@ -3,7 +3,7 @@
 The Firebase Cloud messaging Android app demonstrates registering an android app for notification on firebase.MyFirebaseMessagingService and MyFirebaseInstanceID enable us to token refresh and message handling on the client.
 
 # Intro
-*(Read more about Firebase Cloud Messaging)
+* (Read more about Firebase Cloud Messaging)
 # Getting Started
 *Create an Android studio project
 As we do always create a new android studio project. Once the project is loaded copy the package name you can get it from the AndroidManifest.xml file.
