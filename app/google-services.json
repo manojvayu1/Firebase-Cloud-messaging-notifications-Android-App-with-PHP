@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180451628553",
+    "firebase_url": "https://notifications-40e28.firebaseio.com",
+    "project_id": "notifications-40e28",
+    "storage_bucket": "notifications-40e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180451628553:android:6248673f0e19ae7e",
+        "android_client_info": {
+          "package_name": "com.example.vayu.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180451628553-rr6dkubqs86v3ufau9gfdi9hc5dvarol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcNeuvHypVbeE7iUB5Me4WseY2ej20Uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
