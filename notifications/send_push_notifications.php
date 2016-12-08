@@ -3,7 +3,6 @@
 <title>Notifications</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<link rel="shortcut icon" href="http://192.168.0.144/notifications/mapprr_marker.png">
 <style>
 .city {display:none;}
 body {
@@ -61,7 +60,7 @@ $include_image = isset($_GET['include_image']) ? TRUE : FALSE;
 $push->setTitle($title);
 $push->setMessage($message);
 if ($include_image) {
-    $push->setImage('http://bharathitechservices.com/images/product33.png');
+    $push->setImage('https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png');
 } else {
     $push->setImage('');
 }
