@@ -3,6 +3,7 @@
 <title>Notifications</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="shortcut icon" href="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png">
 <style>
 .city {display:none;}
 body {
@@ -125,7 +126,7 @@ if ($push_type == 'Mapprr') {
 <!--image preview-->
   <div class="w3-col s12 m6">
      <div class="w3-col s12 img">
-        <img class="img1" src="mapprr_logo.png" alt="Person">
+        <img class="img1" src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png" alt="Person">
     </div> 
     <div class="w3-col s12" class="json_preview">
       <p style="margin:50px 0px 50px 0px; overflow-wrap: normal; overflow-wrap: break-word;">
@@ -176,7 +177,7 @@ if ($push_type == 'Mapprr') {
 <!--image preview-->
   <div class="w3-col s12 m6">
      <div class="w3-col s12 img">
-        <img class="img1" src="mapprr_logo.png" alt="Person">
+        <img class="img1" src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png" alt="Person">
     </div> 
     <div class="w3-col s12" class="json_preview">
       <p style="margin:50px 0px 50px 0px; overflow-wrap: normal; overflow-wrap: break-word;">
