@@ -22,7 +22,8 @@ The Firebase Cloud messaging Android app demonstrates registering an android app
 
 # Implementing Firebase Cloud Messaging
 
-* Create a class named  MyFirebaseInstanceIDService.java
+* Create a class named  [MyFirebaseInstanceIDService.java](https://github.com/manojvayu1/Firebase-Cloud-messaging-notifications-Android-App/blob/master/app/src/main/java/com/example/vayu/notifications/service/MyFirebaseInstanceIDService.java)
+* Create a class named [MyFirebaseMessagingService](https://github.com/manojvayu1/Firebase-Cloud-messaging-notifications-Android-App/blob/master/app/src/main/java/com/example/vayu/notifications/service/MyFirebaseMessagingService.java) 
 
 # Sending Notifications
 * Use Firebase console to send FCM messages to device or emulator.
