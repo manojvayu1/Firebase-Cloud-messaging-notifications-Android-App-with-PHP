@@ -70,7 +70,7 @@ $push->setPayload($payload);
 $json = '';
 $response = '';
 
-if ($push_type == 'Mapprr') {
+if ($push_type == 'global') {
     $json = $push->getPush();
     $response = $firebase->sendToTopic('global', $json);
 } else if ($push_type == 'individual') {
@@ -169,7 +169,7 @@ if ($push_type == 'Mapprr') {
         </p>
       </div>
     <p class="w3-col s12 m12">
-    <input type="hidden" name="push_type" value="Mapprr"/>
+    <input type="hidden" name="push_type" value="global"/>
     <button type="submit" class="w3-col s12 m4 w3-btn w3-round w3-padding w3-green">Send</button></p>
     </form>
   </div>
