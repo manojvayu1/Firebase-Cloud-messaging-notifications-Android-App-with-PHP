@@ -1,4 +1,4 @@
-FIREBASE CLOUD MESSAGING FCM NOTIFICATIONS
+Alt-H1 FIREBASE CLOUD MESSAGING FCM NOTIFICATIONS
 
 The Firebase Cloud messaging Android app demonstrates registering an android app for notification on firebase.MyFirebaseMessagingService and MyFirebaseInstanceID enable us to token refresh and message handling on the client.
 
